@@ -1,0 +1,13 @@
+,Store_Id,Date,Product_Category,Sales_Amount,Units_Sold,Customer_Age,Customer_Gender,Promotion_Active,sales_per_unit,High_Sales
+0,1,2024-01-01,Electronics,850.99,2,34,M,True,425.495,True
+1,1,2024-01-01,Clothing,120.5,3,28,F,False,40.16666666666666,False
+2,2,2024-01-01,Electronics,1200.0,3,45,F,True,400.0,True
+3,1,2024-01-02,Food,75.25,5,22,M,False,15.05,False
+4,2,2024-01-02,Clothing,200.0,4,31,F,True,50.0,False
+5,3,2024-01-02,Electronics,950.5,2,29,M,False,475.25,True
+6,1,2024-01-03,Food,45.75,3,55,F,False,15.25,False
+7,2,2024-01-03,Electronics,1500.25,4,41,M,True,375.0625,True
+8,3,2024-01-03,Clothing,175.0,5,33,F,True,35.0,False
+9,1,2024-01-04,Electronics,725.0,1,38,M,False,725.0,False
+10,2,2024-01-04,Food,125.75,8,26,F,True,15.71875,False
+11,3,2024-01-04,Clothing,899.99,2,47,M,True,449.995,True

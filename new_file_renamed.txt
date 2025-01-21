@@ -1,0 +1,8 @@
+Hello, World!
+Welcome to Python
+This is a text file
+This file is created using Python
+This is the last line
+This is a new line
+This is another new line
+This is the last line
